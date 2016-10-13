@@ -1,0 +1,12 @@
+{
+  "name": "namastic",
+  "version": "0.0.1",
+  "description": "The fantastic human API ",
+  "main": "index.js",
+  "repository": {
+    "url": "http://github.com/soixantecircuits/namastic",
+    "type": "git"
+  },
+  "author": "Soixante circuits",
+  "license": "MIT"
+}
