@@ -1,6 +1,6 @@
 {
   "name": "namastic",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The fantastic human API ",
   "main": "index.js",
   "repository": {
