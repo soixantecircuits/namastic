@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Rasmus",
+    "gender": "male",
+    "nationality": "Estonia"
+  },
+  {
+    "name": "Robin",
+    "gender": "male",
+    "nationality": "Estonia"
+  },
+  {
+    "name": "Oliver",
+    "gender": "male",
+    "nationality": "Estonia"
+  },
+  {
+    "name": "Maksim",
+    "gender": "male",
+    "nationality": "Estonia"
+  },
+  {
+    "name": "Robert",
+    "gender": "male",
+    "nationality": "Estonia"
+  },
+  {
+    "name": "Martin",
+    "gender": "male",
+    "nationality": "Estonia"
+  },
+  {
+    "name": "Kaspar",
+    "gender": "male",
+    "nationality": "Estonia"
+  },
+  {
+    "name": "Oskar",
+    "gender": "male",
+    "nationality": "Estonia"
+  },
+  {
+    "name": "Henri",
+    "gender": "male",
+    "nationality": "Estonia"
+  },
+  {
+    "name": "Markus",
+    "gender": "male",
+    "nationality": "Estonia"
+  }
+]

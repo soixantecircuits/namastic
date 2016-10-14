@@ -14,5 +14,8 @@
   "license": "MIT",
   "devDependencies": {
     "lodash": "^4.16.4"
+  },
+  "dependencies": {
+    "i18n-iso-countries": "^1.6.0"
   }
 }

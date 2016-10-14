@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Jan",
+    "gender": "male",
+    "nationality": "Poland"
+  },
+  {
+    "name": "Antoni",
+    "gender": "male",
+    "nationality": "Poland"
+  },
+  {
+    "name": "Jakub",
+    "gender": "male",
+    "nationality": "Poland"
+  },
+  {
+    "name": "Aleksander",
+    "gender": "male",
+    "nationality": "Poland"
+  },
+  {
+    "name": "Franciszek",
+    "gender": "male",
+    "nationality": "Poland"
+  },
+  {
+    "name": "Adam",
+    "gender": "male",
+    "nationality": "Poland"
+  },
+  {
+    "name": "Filip",
+    "gender": "male",
+    "nationality": "Poland"
+  },
+  {
+    "name": "Stanisław",
+    "gender": "male",
+    "nationality": "Poland"
+  },
+  {
+    "name": "Szymon",
+    "gender": "male",
+    "nationality": "Poland"
+  },
+  {
+    "name": "Mikołaj",
+    "gender": "male",
+    "nationality": "Poland"
+  }
+]

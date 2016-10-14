@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Andrei",
+    "gender": "male",
+    "nationality": "Romania"
+  },
+  {
+    "name": "David",
+    "gender": "male",
+    "nationality": "Romania"
+  },
+  {
+    "name": "Alexandru",
+    "gender": "male",
+    "nationality": "Romania"
+  },
+  {
+    "name": "Gabriel",
+    "gender": "male",
+    "nationality": "Romania"
+  },
+  {
+    "name": "Mihai",
+    "gender": "male",
+    "nationality": "Romania"
+  },
+  {
+    "name": "Cristian",
+    "gender": "male",
+    "nationality": "Romania"
+  },
+  {
+    "name": "Ştefan",
+    "gender": "male",
+    "nationality": "Romania"
+  },
+  {
+    "name": "Luca",
+    "gender": "male",
+    "nationality": "Romania"
+  },
+  {
+    "name": "Ionuţ",
+    "gender": "male",
+    "nationality": "Romania"
+  },
+  {
+    "name": "Darius",
+    "gender": "male",
+    "nationality": "Romania"
+  }
+]

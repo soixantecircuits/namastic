@@ -1,0 +1,52 @@
+[
+  {
+    "name": "William",
+    "gender": "male",
+    "nationality": "Sweden"
+  },
+  {
+    "name": "Lucas",
+    "gender": "male",
+    "nationality": "Sweden"
+  },
+  {
+    "name": "Liam",
+    "gender": "male",
+    "nationality": "Sweden"
+  },
+  {
+    "name": "Oscar",
+    "gender": "male",
+    "nationality": "Sweden"
+  },
+  {
+    "name": "Elias",
+    "gender": "male",
+    "nationality": "Sweden"
+  },
+  {
+    "name": "Hugo",
+    "gender": "male",
+    "nationality": "Sweden"
+  },
+  {
+    "name": "Oliver",
+    "gender": "male",
+    "nationality": "Sweden"
+  },
+  {
+    "name": "Charlie",
+    "gender": "male",
+    "nationality": "Sweden"
+  },
+  {
+    "name": "Axel",
+    "gender": "male",
+    "nationality": "Sweden"
+  },
+  {
+    "name": "Vincent",
+    "gender": "male",
+    "nationality": "Sweden"
+  }
+]

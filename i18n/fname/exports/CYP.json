@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Andreas (Ανδρέας)",
+    "gender": "male",
+    "nationality": "Cyprus"
+  },
+  {
+    "name": "Georgios (Γιώργος)",
+    "gender": "male",
+    "nationality": "Cyprus"
+  },
+  {
+    "name": "Kostas (Κώστας)",
+    "gender": "male",
+    "nationality": "Cyprus"
+  },
+  {
+    "name": "Christos (Χρίστος)",
+    "gender": "male",
+    "nationality": "Cyprus"
+  },
+  {
+    "name": "Nikolaos (Νικόλας)",
+    "gender": "male",
+    "nationality": "Cyprus"
+  },
+  {
+    "name": "Michalis (Μιχάλης)",
+    "gender": "male",
+    "nationality": "Cyprus"
+  },
+  {
+    "name": "Panagiotis (Παναγιώτης)",
+    "gender": "male",
+    "nationality": "Cyprus"
+  },
+  {
+    "name": "Ioannis (Ιωάννης)",
+    "gender": "male",
+    "nationality": "Cyprus"
+  },
+  {
+    "name": "Marios (Μάριος)",
+    "gender": "male",
+    "nationality": "Cyprus"
+  },
+  {
+    "name": "Dimitrios (Δημήτρης)",
+    "gender": "male",
+    "nationality": "Cyprus"
+  }
+]

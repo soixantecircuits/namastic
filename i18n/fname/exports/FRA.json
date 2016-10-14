@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Adam",
+    "gender": "male",
+    "nationality": "France"
+  },
+  {
+    "name": "Gabriel",
+    "gender": "male",
+    "nationality": "France"
+  },
+  {
+    "name": "Raphaël",
+    "gender": "male",
+    "nationality": "France"
+  },
+  {
+    "name": "Paul",
+    "gender": "male",
+    "nationality": "France"
+  },
+  {
+    "name": "Louis",
+    "gender": "male",
+    "nationality": "France"
+  },
+  {
+    "name": "Arthur",
+    "gender": "male",
+    "nationality": "France"
+  },
+  {
+    "name": "Alexandre",
+    "gender": "male",
+    "nationality": "France"
+  },
+  {
+    "name": "Victor",
+    "gender": "male",
+    "nationality": "France"
+  },
+  {
+    "name": "Jules",
+    "gender": "male",
+    "nationality": "France"
+  },
+  {
+    "name": "Mohammed",
+    "gender": "male",
+    "nationality": "France"
+  }
+]

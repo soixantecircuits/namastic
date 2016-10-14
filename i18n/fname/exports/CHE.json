@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Noah",
+    "gender": "male",
+    "nationality": "Switzerland"
+  },
+  {
+    "name": "Liam",
+    "gender": "male",
+    "nationality": "Switzerland"
+  },
+  {
+    "name": "Luca",
+    "gender": "male",
+    "nationality": "Switzerland"
+  },
+  {
+    "name": "Gabriel",
+    "gender": "male",
+    "nationality": "Switzerland"
+  },
+  {
+    "name": "Leon",
+    "gender": "male",
+    "nationality": "Switzerland"
+  },
+  {
+    "name": "David",
+    "gender": "male",
+    "nationality": "Switzerland"
+  },
+  {
+    "name": "Matteo",
+    "gender": "male",
+    "nationality": "Switzerland"
+  },
+  {
+    "name": "Elias",
+    "gender": "male",
+    "nationality": "Switzerland"
+  },
+  {
+    "name": "Louis",
+    "gender": "male",
+    "nationality": "Switzerland"
+  },
+  {
+    "name": "Levin",
+    "gender": "male",
+    "nationality": "Switzerland"
+  }
+]
