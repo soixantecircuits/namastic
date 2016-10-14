@@ -7,6 +7,12 @@
     "url": "http://github.com/soixantecircuits/namastic",
     "type": "git"
   },
+  "scripts": {
+    "test": "./test/test.sh"
+  },
   "author": "Soixante circuits",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "lodash": "^4.16.4"
+  }
 }
